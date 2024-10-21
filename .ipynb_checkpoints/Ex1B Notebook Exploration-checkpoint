@@ -1,0 +1,113 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "798e5bbe-0e70-4292-ba2a-54a3d3f85598",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "hello world\n"
+     ]
+    }
+   ],
+   "source": [
+    "print('hello world')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "e17968a3-c375-4903-9105-3f91662eea35",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "customer_id = 98765\n",
+    "\n",
+    "first_name = \"John\"\n",
+    "middle_name = \"Michael\"\n",
+    "last_name = \"Doe\"\n",
+    "\n",
+    "gender = \"Male\" # Male, Female, Pefer not to answer\n",
+    "\n",
+    "date_of_birth = \"1985-07-23\"  # YYYY-MM-DD format\n",
+    "\n",
+    "drivers_license_number = \"D12345678\"\n",
+    "\n",
+    "auto_policy_number = \"AUTO-98765432\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "f7dd80a2-4f64-452b-a175-a4a10d8a0067",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "customer_id = 123456\n",
+    "\n",
+    "first_name = \"Anthony\"\n",
+    "middle_name = \"Daniel\"\n",
+    "last_name = \"Perez\"\n",
+    "\n",
+    "gender = \"Male\"\n",
+    "\n",
+    "date_of_birth = \"1995-01-04\"  # YYYY-MM-DD format\n",
+    "\n",
+    "drivers_license_number = \"D98765432\"\n",
+    "\n",
+    "auto_policy_number = \"AUTO-12345678\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "245fe41a-35c8-49c6-81dd-93fb7b7fcfa9",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "123456\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(customer_id)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "dca712f1-4d81-49aa-a352-b46a7065aafe",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.3"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
