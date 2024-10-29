@@ -52,4 +52,3 @@ print(f"Estimated Annual Gross Pay: $ {annual_gross_pay:.2f}")
 print(f"Tax Rate: {tax_rate * 100}%")
 print(f"Annual Tax: ${annual_tax:.2f}")
 print(f"Net Income after tax: ${net_income:.2f}")
-
